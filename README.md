@@ -35,12 +35,12 @@
 ## 🚀 Featured Projects
 
 <div>
-  <a href="https://github.com/awejofficial/e-commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awejofficial&repo=e-commerce&theme=transparent&hide_border=true&title_color=84ADFF&text_color=FFFFFF&icon_color=D4ADFC" alt="E-Commerce Website" />
+  <a href="https://github.com/awejofficial/dsa-with-java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awejofficial&repo=dsa-with-java&theme=transparent&hide_border=true&title_color=84ADFF&text_color=FFFFFF&icon_color=D4ADFC" alt="DSA with Java" />
   </a>
 
-  <a href="https://github.com/awejofficial/ipl-auction-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awejofficial&repo=ipl-auction-game&theme=transparent&hide_border=true&title_color=84ADFF&text_color=FFFFFF&icon_color=D4ADFC" alt="IPL Auction Game" />
+  <a href="https://github.com/awejofficial/college-compass-new">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awejofficial&repo=college-compass-new&theme=transparent&hide_border=true&title_color=84ADFF&text_color=FFFFFF&icon_color=D4ADFC" alt="College Compass" />
   </a>
 </div>
 
