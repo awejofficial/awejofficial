@@ -46,25 +46,23 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awejofficial&show_icons=true&theme=transparent&hide_border=true&title_color=84ADFF&text_color=FFFFFF&icon_color=D4ADFC" alt="GitHub Stats" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=awejofficial&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=awejofficial&theme=gruvbox_light&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=awejofficial&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awejofficial&layout=compact&theme=transparent&hide_border=true&title_color=84ADFF&text_color=FFFFFF" alt="Top Languages" />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=awejofficial&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin,twitter,gmail" width='150px' alt="socials" />
-  </a>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/awej_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/awejpathan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:awej.dev@gmail.com) 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4ADFC,100:84ADFF&height=100&section=footer" width="100%">
